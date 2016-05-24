@@ -23,10 +23,23 @@ h3 {
   margin-left: 13px;
 }
 
+h3::first-letter {
+  font-family: cursive, serif;
+  font-size: 21px;
+}
+
 li {
   font-style: oblique;
 }
 
 ul{
   padding-bottom: 10px;
+}
+
+p {
+  font-family: cursive, serif;
+}
+
+img {
+  width: 75%;
 }
